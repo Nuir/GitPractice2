@@ -53,6 +53,7 @@ void CChildView::OnPaint()
 	//이대곤2
 	//이혁진3
 	//이대곤3
+	//이혁진4
 	// 그리기 메시지에 대해서는 CWnd::OnPaint()를 호출하지 마십시오.
 }
 
